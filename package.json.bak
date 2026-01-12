@@ -1,0 +1,5 @@
+{
+  "db_password": "backupDBpass@123",
+  "admin_token": "admin_backup_token_456",
+  "old_api_key": "OLD_API_KEY_FAKE_123"
+}
